@@ -1,0 +1,46 @@
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.exe
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.deps.json
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.runtimeconfig.json
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.dll
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.pdb
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.csproj.AssemblyReference.cache
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.FormLogin.resources
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.FormRegister.resources
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.HomePage.resources
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.csproj.GenerateResource.cache
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.AssemblyInfoInputs.cache
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.AssemblyInfo.cs
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.csproj.CoreCompileInputs.cache
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaC.299038B3.Up2Date
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.dll
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\refint\PustakaCeriaGUI.dll
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.pdb
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.genruntimeconfig.cache
+C:\Users\dhafg\source\repos\PustakaCeriaGUI\PustakaCeriaGUI\obj\Debug\net8.0-windows\ref\PustakaCeriaGUI.dll
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.exe
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.deps.json
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.runtimeconfig.json
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.dll
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\bin\Debug\net8.0-windows\PustakaCeriaGUI.pdb
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.csproj.AssemblyReference.cache
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.Dashboard.resources
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.FormLogin.resources
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.FormRegister.resources
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.MainForm.resources
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.Properties.Resources.resources
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.StastikaPenggunaanBuku.resources
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.csproj.GenerateResource.cache
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.AssemblyInfoInputs.cache
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.AssemblyInfo.cs
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.csproj.CoreCompileInputs.cache
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.sourcelink.json
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaC.299038B3.Up2Date
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.dll
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\refint\PustakaCeriaGUI.dll
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.pdb
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\PustakaCeriaGUI.genruntimeconfig.cache
+C:\Users\avisenna\Downloads\Folder Baru\PustakaCeriaGUI\obj\Debug\net8.0-windows\ref\PustakaCeriaGUI.dll

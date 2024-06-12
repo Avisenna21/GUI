@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PustakaCeriaGUI": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}

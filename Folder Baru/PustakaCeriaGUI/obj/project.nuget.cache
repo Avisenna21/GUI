@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "inFO0er2yCA2ULfbBszF52tSdJsqk62jjMjWg61hMQR9Txun9oEAeJ64o5mJQ4yGIzi6h5+aOiJ1+sTKJGRVjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avisenna\\Downloads\\Folder Baru\\PustakaCeriaGUI\\PustakaCeriaGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avisenna\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
